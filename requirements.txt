@@ -1,0 +1,4 @@
+networkx==3.4.2
+setuptools==68.2.0
+wheel==0.41.2
+mpi4py==4.0.1
